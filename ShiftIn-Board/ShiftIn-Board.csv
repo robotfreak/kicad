@@ -1,0 +1,5 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOIC-16_4.55x10.3mm_P1.27mm";1;"74HC165_DIL16";;;
+2;"J3";"PinHeader_1x08_P2.54mm_Vertical";1;"Conn_01x08_Male";;;
+3;"J2,J1";"PinHeader_1x06_P2.54mm_Vertical";2;"Conn_01x06_Male";;;
+4;"C1";"C_1206_3216Metric";1;"C";;;
