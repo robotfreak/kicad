@@ -1,5 +1,5 @@
 Drill report for /home/peter/kicad/ShiftIn-Board/ShiftIn-Board.kicad_pcb
-Created on Di 06 Okt 2020 20:09:48 CEST
+Created on Do 08 Okt 2020 21:48:13 CEST
 
 Copper Layer Stackup:
     =============================================================
@@ -10,10 +10,10 @@ Copper Layer Stackup:
 Drill file 'ShiftIn-Board-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  0,40mm  0,016"  (10 holes)
+    T1  0,40mm  0,016"  (6 holes)
     T2  1,00mm  0,039"  (20 holes)
 
-    Total plated holes count 30
+    Total plated holes count 26
 
 
 Drill file 'ShiftIn-Board-NPTH.drl' contains
